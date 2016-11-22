@@ -1,9 +1,9 @@
 language: node_js
 node_js:
-  - "4"
-  - "6"
-  - "7"
- addons:
+  - '7'
+  - '6'
+  - '4'
+addons:
   apt:
     sources:
       - ubuntu-toolchain-r-test
@@ -17,8 +17,4 @@ env:
   - CXX=g++-4.9
 before_install:
   - npm explore npm -g -- npm install node-gyp@latest
-
-install:
-  - npm i
-script:
-  - 'npm test'
+sudo: false
