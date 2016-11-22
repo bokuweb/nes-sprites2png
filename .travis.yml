@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "4"
+  - "6"
+  - "7"
+install:
+  - sudo apt-get install libcairo2-dev libjpeg8-dev libpango1.0-dev libgif-dev build-essential g++
+  - npm i
+script:
+  - 'npm test'

@@ -1,0 +1,17 @@
+{
+  "name": "nes-sprite2png",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/index.spec.js"1
+  },
+  "author": "bokuweb",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
