@@ -1,6 +1,10 @@
 # nes-sprites2png
 
------
+👾 convert nes file sprites to png 👾 
+
+[![Build Status](https://img.shields.io/travis/bokuweb/nes-sprites2png.svg?style=flat-square)](https://travis-ci.org/bokuweb/nes-sprites2png)
+[![Version](https://img.shields.io/npm/v/nes-sprites2png.svg?style=flat-square)](https://www.npmjs.com/package/nes-sprites2png)
+
 
 ## Installation
 
