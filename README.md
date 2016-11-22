@@ -1,4 +1,4 @@
-# 👾nes-sprites2png👾
+# nes-sprites2png
 
 -----
 
@@ -22,7 +22,7 @@ $ npm install nes-sprites2png
 
 ## Screencasts
 
-![Screenshot](https://github.com/bokuweb/nes-sprites2png/blob/master/aaa.png?raw=true)
+![Screenshot](https://github.com/bokuweb/nes-sprites2png/blob/master/sprite.png?raw=true)
 
 ## Example
 
