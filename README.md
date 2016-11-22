@@ -24,7 +24,7 @@ Windows | [Instructions on our wiki](https://github.com/Automattic/node-canvas/w
 $ npm install nes-sprites2png
 ```
 
-## Screencasts
+## Screenshot
 
 ![Screenshot](https://github.com/bokuweb/nes-sprites2png/blob/master/sprite.png?raw=true)
 
