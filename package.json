@@ -1,6 +1,6 @@
 {
   "name": "nes-sprites2png",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,6 @@
     "mocha": "^3.1.2"
   },
   "bin": {
-    "nes-sprites2png": "bin/nes-sprites2png"
+    "nes-sprites2png": "bin/index.js"
   }
 }
