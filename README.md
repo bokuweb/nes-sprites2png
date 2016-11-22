@@ -1,11 +1,11 @@
-# 👾　nes-sprites2png 👾
+# 👾nes-sprites2png👾
 
 -----
 
 ## Installation
 
-`nes-sprites2png` depends on `node-canvas`
-You can quickly install the dependencies by using the command for your OS:
+`nes-sprites2png` depends on `node-canvas`.    
+You can quickly install the dependencies by using the command for your OS:    
 
 OS | Command
 ----- | -----
@@ -21,6 +21,8 @@ $ npm install nes-sprites2png
 ```
 
 ## Screencasts
+
+![Screenshot](https://github.com/bokuweb/nes-sprites2png/blob/master/aaa.png?raw=true)
 
 ## Example
 

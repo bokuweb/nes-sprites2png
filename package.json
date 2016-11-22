@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/index.spec.js"1
+    "test": "mocha ./test/index.spec.js"
   },
   "author": "bokuweb",
   "license": "MIT",
