@@ -1,6 +1,6 @@
 {
-  "name": "nes-sprite2png",
-  "version": "1.0.0",
+  "name": "nes-sprites2png",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
