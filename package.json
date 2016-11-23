@@ -1,6 +1,6 @@
 {
   "name": "nes-sprites2png",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "",
   "scripts": {
     "test": "mocha ./test/index.spec.js"
