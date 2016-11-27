@@ -44,7 +44,7 @@ const buildSprite = (spriteNum) => {
   for (let i = 0; i < 16; i++) {
     for (let j = 0; j < 8; j++) {
       if (nes[charactorROMsart + spriteNum * 16 + i] & (0x80 >> j )) {
-        sprite[i % 8][j] = sprite[i % 8][j] ? 3 : 1;
+        sprite[i % 8][j] += 0x01 << (i / 8);
       }
     }
   }
